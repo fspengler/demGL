@@ -1,0 +1,119 @@
+TdemGL
+v7
+r0
+t367867827.810526
+cCheck dependencies
+cCompileC build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/main.o "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/demGL" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004D5A2790000000000001A494
+t1297754000
+s107668
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BD2501F0000000000001659
+t1272074271
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BE91B5D0000000000003F84
+t1273568093
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D5A2791000000000000DB14
+t1297754001
+s56084
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.cpp
+c00000000503BD0060000000000000C61
+t1346097158
+s3169
+i<iostream>
+i<GLUT/GLUT.h>
+i<OpenGL/glu.h>
+i<OpenGL/OpenGL.h>
+i"OpenGL.h"
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.h
+c00000000503BC61700000000000000F3
+t1346094615
+s243
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/demGL
+t1346101003
+s16864
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/OpenGL.o
+t1346097158
+s52900
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/demGL.LinkFileList
+c00000000503BD1B60000000000000083
+t1346097590
+s131
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/main.o
+t1346101002
+s51592
+
+N/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp
+c00000000503BDF0900000000000011A5
+t1346101001
+s4517
+i<iostream>
+i<GLUT/GLUT.h>
+i<OpenGL/glu.h>
+i<OpenGL/OpenGL.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367867827#367867827#0(0"0(0#1#0"4317974528#0"0#
+
+CCompileC build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/OpenGL.o "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s367790371.412280
+e367790371.412965
+r1
+xCompileC
+xbuild/demGL.build/Debug/demGL.build/Objects-normal/x86_64/OpenGL.o
+x/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.cpp367790371#367790371#0(0"0(0#0#76"/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.cpp4317974528#1578"    cd "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-generated-files.hmap" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-own-target-headers.hmap" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-all-target-headers.hmap" -iquote "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-project-headers.hmap" "-F/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/include" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/DerivedSources/x86_64" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/DerivedSources" -c "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/OpenGL.cpp" -o "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/OpenGL.o"0#
+
+CCompileC build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/main.o "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s367793803.103249
+e367793803.104279
+r1
+xCompileC
+xbuild/demGL.build/Debug/demGL.build/Objects-normal/x86_64/main.o
+x/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp367793803#367793803#0(0"0(0#0#74"/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp4317974528#1574"    cd "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-generated-files.hmap" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-own-target-headers.hmap" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-all-target-headers.hmap" -iquote "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/demGL-project-headers.hmap" "-F/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/include" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/DerivedSources/x86_64" "-I/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/DerivedSources" -c "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/main.cpp" -o "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/demGL" normal x86_64
+s367793803.104333
+e367793803.121438
+r1
+xLd
+x/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/demGL
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/demGL367793803#367793803#0(0"0(0#0#0"4317974528#669"    cd "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug" "-F/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug" -filelist "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/demGL.build/Debug/demGL.build/Objects-normal/x86_64/demGL.LinkFileList" -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o "/Users/frederico/Documents/Unicamp/12o Semestre/TG II/Codes/demGL/build/Debug/demGL"0#
+
